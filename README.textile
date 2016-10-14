@@ -1,2 +1,2 @@
-
+    守夜人反社工平台版 elasticsearch-head
     @sudo elasticsearch/bin/plugin install 568875138/elasticsearch-head@
