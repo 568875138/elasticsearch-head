@@ -1,5 +1,5 @@
 i18n.setKeys({
-	"General.Elasticsearch": "Elasticsearch",
+	"General.Elasticsearch": "守夜人反社工平台",
 	"General.LoadingAggs": "Carregando Facetas...",
 	"General.Searching": "Buscando...",
 	"General.Search": "Busca",
